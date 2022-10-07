@@ -1,7 +1,7 @@
 import React from 'react';
 import './header.css';
 import CTA from './CTA';
-import ME from "../../assets/myimage.jpeg";
+import ME from "../../assets/mynewimage.png";
 import Socials from './Socials';
 
 const Header = () => {
