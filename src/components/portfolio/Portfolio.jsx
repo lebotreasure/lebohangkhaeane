@@ -1,6 +1,6 @@
 import React from 'react';
 import './portfolio.css';
-import IMG1 from '../../assets/portfolio1.jpeg';
+import IMG1 from '../../assets/portfolio1.png';
 import IMG2 from '../../assets/portfolio2.jpeg';
 import IMG3 from '../../assets/portfolio3.jpeg';
 import IMG4 from '../../assets/portfolio4.jpeg';
@@ -12,8 +12,8 @@ const data = [
     id: 1,
     image: IMG1,
     title: 'Treasures Bakery Ecommerce',
-    github: 'https://github.com/lebotreasure/lebotreasure.github.io',
-    demo: 'https://dribble.com/shots/16673715-Crypto-currency-dashboards-and-financial-data-visualization'
+    github: 'https://github.com/lebotreasure/Treasure-s-Bakery',
+    demo: 'https://treasures-bakery.netlify.app/'
   },
   {
     id: 2,
