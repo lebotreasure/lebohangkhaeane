@@ -63,7 +63,7 @@ const Experience = () => {
           </div>
         </div>
         <div className="experience_backend">
-          <h3>Frondend Development</h3>
+          <h3>Backend Development</h3>
           <div className="experience_content">
             <article className='experience-details'>
               <BsFillPatchCheckFill className='experience_details-icon' />
