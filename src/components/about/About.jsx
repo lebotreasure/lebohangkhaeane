@@ -35,7 +35,9 @@ const About = () => {
                 <small>10+ projects</small>
               </article>
             </div>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Numquam animi dolorum, ad ipsa eius reprehenderit fugit optio necessitatibus harum dolorem iste corrupti nam amet debitis, quae quas cumque vitae ipsam?</p>
+            <p>I am a motivated individual with a Bachelor’s Degree in Information Technology. I’m also a good listener and observer. I make it a point to know all that
+I can about my job and responsibilities as well as the people that I work with. I enjoy working as part of a team and collaborating with associates to
+achieve shared goals.</p>
             <a href='#contact' className='btn btn-primary'>Let's Talk</a>
           </div>
         </div>
